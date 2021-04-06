@@ -6624,10 +6624,10 @@ swarm-js@0.1.37:
     tar.gz "^1.0.5"
     xhr-request-promise "^0.1.2"
 
-systeminformation@4.1.4:
-  version "4.1.4"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.1.4.tgz#39530317c82866dc0d6f1e6da76da6c2532d4e19"
-  integrity sha512-kYwSfnSUVjMiw+MHRZkokWx7q8v3ZaanZky40NNxpSfMmAw8kOQbEwmNiAqBa9ynFJX9G+OGWx2wRF72XdWmPQ==
+systeminformation@5.6.4:
+  version "5.6.4"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.6.4.tgz#5f32fcb05a5849e2a0e71b182c1f56ce32219310"
+  integrity sha512-b2tvW1R+qjNEoAGgh734EGLgqbDMghjsHRaWo36skAC6JM1tw1pitcGz/REt+qSIRSXbE4PKECojhaSrBRrEmw==
 
 table@^5.2.3:
   version "5.4.6"
