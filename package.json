@@ -36,7 +36,7 @@
     "boxen": "3.0.0",
     "chalk": "2.4.2",
     "configstore": "4.0.0",
-    "ws": "6.2.1",
+    "ws": "7.4.6",
     "primus": "7.3.2",
     "primus-responder": "1.0.4",
     "debug": "4.1.1",
