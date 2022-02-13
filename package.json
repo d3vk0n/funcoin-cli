@@ -53,7 +53,7 @@
     "moment": "2.24.0",
     "find-process": "1.4.1",
     "systeminformation": "4.1.4",
-    "ajv": "6.10.0"
+    "ajv": "6.12.3"
   },
   "devDependencies": {
     "@babel/core": "7.4.0",
